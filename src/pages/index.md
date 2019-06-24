@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lutz Longstaff Parish
-image: /img/julius-jansson-isn-pewbxfo-unsplash.jpg
+image: /img/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
