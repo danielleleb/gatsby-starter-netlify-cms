@@ -7,11 +7,14 @@ subheading: PROUDLY SERVING YOU SINCE 1977
 mainpitch:
   title: Have you been charged with a DUI?
   description: >-
-    Convictions for driving under the influence can result in jail time,
-    suspended licenses and fines, requirements for driver and alcohol education
-    programs and high insurance premiums.
+    # Convictions 
 
 
+
+
+    for driving under the influence can result in jail time, suspended licenses
+    and fin**es, requirements for driver and alcohol education programs and high
+    insurance premiums.**
 
 
     [We can help >](/contact)
