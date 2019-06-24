@@ -2,15 +2,14 @@
 templateKey: index-page
 title: Lutz Longstaff Parish
 image: /img/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
-heading: Great coffee with a conscience
+heading: '  '
 subheading: PROUDLY SERVING YOU SINCE 1977
 mainpitch:
-  title: Why Kaldi
+  title: Have you been charged with a DUI?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Convictions for driving under the influence can result in jail time,
+    suspended licenses and fines, requirements for driver and alcohol education
+    programs and high insurance premiums.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
