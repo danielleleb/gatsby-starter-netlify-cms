@@ -3,7 +3,7 @@ templateKey: index-page
 title: Lutz Longstaff Parish
 image: /img/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: PROUDLY SERVING YOU SINCE 1977
 mainpitch:
   title: Why Kaldi
   description: >
