@@ -6,18 +6,7 @@ heading: '  '
 subheading: PROUDLY SERVING YOU SINCE 1977
 mainpitch:
   title: Have you been charged with a DUI?
-  body: >-
-    # Convictions 
-
-
-
-
-    for driving under the influence can result in jail time, suspended licenses
-    and fin**es, requirements for driver and alcohol education programs and high
-    insurance premiums.**
-
-
-    [We can help >](/contact)
+  body: '# d'
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -70,4 +59,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
+fdaddd
